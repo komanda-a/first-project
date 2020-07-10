@@ -98,6 +98,11 @@
     transition: .4s;
     }
 
+    .header_consulteition_btn.open_modal {
+        line-height: 30px;
+        display: block;
+    }
+
 .header_consulteition_btn:hover {
     // background-color: rgb(240, 108, 32);
     color: #fff; 
