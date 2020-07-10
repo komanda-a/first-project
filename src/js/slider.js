@@ -7,8 +7,8 @@ $(document).ready(function(){
     cssEase: 'ease',
     infinite: true,
     asNavFor: '.slider-nav',
-    prevArrow: '<button class="arrow prev-arrow"><svg><use href="/images/icons/arrows-sprite.svg#icon-back"></use></svg></button>',
-    nextArrow: '<button class="arrow next-arrow"><svg><use href="/images/icons/arrows-sprite.svg#icon-next"></use></svg></button>',
+    prevArrow: '<button class="arrow prev-arrow"><svg><use href="./images/icons/arrows-sprite.svg#icon-back"></use></svg></button>',
+    nextArrow: '<button class="arrow next-arrow"><svg><use href="./images/icons/arrows-sprite.svg#icon-next"></use></svg></button>',
     });
 
 
